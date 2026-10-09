@@ -1,5 +1,7 @@
 <Solution>
   <Project Path="Inicijali/Inicijali.csproj" />
+  <Project Path="ProsjekOcjena/ProsjekOcjena.csproj" Id="fe142d74-1cf1-4439-865d-947f043ffc2a" />
+  <Project Path="ProsjekOcjena_TryParse/ProsjekOcjena_TryParse.csproj" Id="98e67d5a-3520-431e-930b-8a49f37de517" />
   <Project Path="RacunskeOperacije/RacunskeOperacije.csproj" />
   <Project Path="TocnoVrijeme/TocnoVrijeme.csproj" />
 </Solution>
