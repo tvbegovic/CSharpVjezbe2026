@@ -4,6 +4,8 @@
   <Project Path="Djelitelji/Djelitelji.csproj" Id="557621f0-deb0-42f0-b8d4-8b53b28c85a4" />
   <Project Path="Djelitelji_dopetlja/Djelitelji_dopetlja.csproj" Id="ccfd453c-8c9e-4afa-ab60-185ee7b3588d" />
   <Project Path="Inicijali/Inicijali.csproj" />
+  <Project Path="IzracunKamata/IzracunKamata.csproj" Id="4178fa1a-442b-4fb8-979c-cc52dd7f7bf5" />
+  <Project Path="IzracunKamata_Iznimke/IzracunKamata_Iznimke.csproj" Id="82024210-6dd8-41ca-bf85-3407359b668a" />
   <Project Path="PogadanjeBroja/PogadanjeBroja.csproj" Id="fa5a70c2-5ef7-4d47-85d0-bae584a07925" />
   <Project Path="ProsjekOcjena/ProsjekOcjena.csproj" Id="fe142d74-1cf1-4439-865d-947f043ffc2a" />
   <Project Path="ProsjekOcjena_TryParse/ProsjekOcjena_TryParse.csproj" Id="98e67d5a-3520-431e-930b-8a49f37de517" />
