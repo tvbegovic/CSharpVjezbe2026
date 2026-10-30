@@ -12,5 +12,6 @@
   <Project Path="ProsjekOcjena_TryParse/ProsjekOcjena_TryParse.csproj" Id="98e67d5a-3520-431e-930b-8a49f37de517" />
   <Project Path="ProsjekUspjeh/ProsjekUspjeh.csproj" Id="534f7277-8d4f-4815-a5ba-cb752c7ecd94" />
   <Project Path="RacunskeOperacije/RacunskeOperacije.csproj" />
+  <Project Path="RpgIgra/RpgIgra.csproj" Id="87686a29-50e9-4f35-aae4-c4b90b215d57" />
   <Project Path="TocnoVrijeme/TocnoVrijeme.csproj" />
 </Solution>
