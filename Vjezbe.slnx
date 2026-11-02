@@ -1,4 +1,5 @@
 <Solution>
+  <Project Path="Brojevi/Brojevi.csproj" Id="63e7bf13-1728-413c-a56d-e98f6ef55bb7" />
   <Project Path="DaniMjeseca/DaniMjeseca.csproj" Id="edb6a44b-4fe8-4e1e-b4c2-69a0b2ca744f" />
   <Project Path="DatumiRodenja/DatumiRodenja.csproj" Id="538abd1f-5bb8-4f74-bfda-5984390e01fd" />
   <Project Path="Djelitelji/Djelitelji.csproj" Id="557621f0-deb0-42f0-b8d4-8b53b28c85a4" />
